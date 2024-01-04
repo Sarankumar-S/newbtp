@@ -1,6 +1,6 @@
 ## Application Details
 |               |
-| ------------- |new changes, hi 26-12, new change 03-01
+| ------------- |new changes, hi 26-12, new change 04-01
 |**Generation Date and Time**<br>Thu Dec 21 2023 05:20:40 GMT+0000 (Coordinated Universal Time)|
 |**App Generator**<br>@sap/generator-fiori-freestyle|
 |**App Generator Version**<br>1.12.1|
